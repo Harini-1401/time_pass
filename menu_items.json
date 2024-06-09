@@ -1,0 +1,70 @@
+{
+    "Appetizers": [
+        [
+            "Nachos",
+            8.99,
+            9
+        ],
+        [
+            "Wings",
+            9.99,
+            5
+        ],
+        [
+            "Spring Rolls",
+            7.99,
+            20
+        ]
+    ],
+    "Burgers": [
+        [
+            "Cheeseburger",
+            10.99,
+            8
+        ],
+        [
+            "Veggie Burger",
+            9.99,
+            15
+        ],
+        [
+            "Chicken Burger",
+            11.99,
+            12
+        ]
+    ],
+    "Beverages": [
+        [
+            "Soda",
+            2.99,
+            50
+        ],
+        [
+            "Iced Tea",
+            3.49,
+            30
+        ],
+        [
+            "Lemonade",
+            3.49,
+            25
+        ]
+    ],
+    "Desserts": [
+        [
+            "Ice Cream",
+            4.99,
+            10
+        ],
+        [
+            "Cheesecake",
+            5.99,
+            7
+        ],
+        [
+            "Brownie",
+            4.49,
+            6
+        ]
+    ]
+}
